@@ -1,0 +1,13 @@
+{
+  "name": "testing-slint",
+  "version": "0.0.1",
+  "description": "Just testing slint out",
+  "scripts": {
+    "dev": "tsx index.ts"
+  },
+  "author": "tobycm",
+  "dependencies": {
+    "slint-ui": "^1.0.2",
+    "tsx": "^3.12.7"
+  }
+}
